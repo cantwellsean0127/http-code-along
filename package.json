@@ -1,0 +1,23 @@
+{
+  "name": "http-code-along",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cantwellsean0127/http-code-along.git"
+  },
+  "author": "Sean Cantwell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cantwellsean0127/http-code-along/issues"
+  },
+  "homepage": "https://github.com/cantwellsean0127/http-code-along#readme",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  }
+}
